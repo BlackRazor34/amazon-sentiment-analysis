@@ -1,3 +1,6 @@
+<p align="center">
+  <img width="300" height="200" src="amazon_logo.png">
+</p>
 
 # Amazon Yorumları için Duygu Analizi ve Sınıflandırma Modeli
 
